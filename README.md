@@ -1,4 +1,4 @@
-[![MasterHead](https://scontent.fhan2-5.fna.fbcdn.net/v/t1.6435-9/89118610_1644192042389904_848547780908548096_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=RFXTAq9sHM8AX-FvQul&_nc_oc=AQmiWQgQzn8sBhuT3FD20F4CXO-CFHys-XmQ0k7iv4336ZKxbh1w4IdJKuLSjdzfzyI&tn=JRsE_TG_LRMrUAds&_nc_ht=scontent.fhan2-5.fna&oh=00_AT-k6cUlmN1ZP7U2cm3y576bgDzToBr-WLvrpFPnbbPBCw&oe=6378CCAB)](https://github.com/BigBird123)
+[![MasterHead](https://scontent.fhan2-2.fna.fbcdn.net/v/t1.15752-9/308638421_5423690887747356_3877617446152563635_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=YNNeMZXJaAwAX8ZQHgr&_nc_ht=scontent.fhan2-2.fna&oh=03_AdTmH4vogRlTy-CV_sW7l6fse4RVKAgSIGXrzBDq8doebA&oe=637845A2)](https://github.com/BigBird123)
 <h1 align="center">Hi 👋, I'm Nguyen Xuan Loc</h1>
 <h3 align="center">A young DataScient from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
