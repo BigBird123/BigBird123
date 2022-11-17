@@ -1,4 +1,4 @@
-[![MasterHead](https://scontent.fhan2-2.fna.fbcdn.net/v/t1.15752-9/308638421_5423690887747356_3877617446152563635_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=YNNeMZXJaAwAX8ZQHgr&_nc_ht=scontent.fhan2-2.fna&oh=03_AdTmH4vogRlTy-CV_sW7l6fse4RVKAgSIGXrzBDq8doebA&oe=637845A2)](https://github.com/BigBird123)
+[![MasterHead](https://user-images.githubusercontent.com/32843937/202413411-47f38c02-2e34-4e6b-a330-0b73fb178a1e.png)](https://github.com/BigBird123)
 <h1 align="center">Hi 👋, I'm Nguyen Xuan Loc</h1>
 <h3 align="center">A young DataScient from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
