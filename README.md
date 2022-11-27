@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nguyenloc.1499@gmail.com**
 
-- ⚡ Connect more **I like cute animals, reading (authors like tolstoy, Margaret Mitchell, Thu Giang, 莊周 .etc), and philosophy. I have an interest in ink wash painting. Finally, if you like to play any game, recommend me to play with you. The game that I like to play most relaxing is moonlighter, try it**
+- ⚡ Connect more **I like cute animals, reading (authors like tolstoy, Margaret Mitchell, Thu Giang, 莊周 .etc), and philosophy. I have a fondness for ink wash paintings. Finally, if you like to play any game or algorithm, introduce me to play with you, I practice algorithms on leetcode, maybe we will be a team. The game that I like to play most relaxing is mooner, try it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
