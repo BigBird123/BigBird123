@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/32843937/202413411-47f38c02-2e34-4e6b-a330-0b73fb178a1e.png)](https://github.com/BigBird123)
-<h1 align="center">Hi 👋, I'm Nguyen Xuan Loc</h1>
-<h3 align="center">A young DataScient from Vietnam</h3>
+<h1 align="center">Hi 👋, I'm Xuan-Loc Nguyen</h1>
+<h3 align="center">Live with all your heart</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigbird123&label=Profile%20views&color=0e75b6&style=flat" alt="bigbird123" /> </p>
